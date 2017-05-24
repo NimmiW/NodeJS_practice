@@ -1,0 +1,10 @@
+{
+  "name": "Sanka-project",
+  "version": "0.0.1",
+  "description": "Start a new ionic project in seconds !",
+  "dependencies": {
+    "express": "^4.15.3",
+    "mssql": "^4.0.4"
+  },
+  "devDependencies": {}
+}
